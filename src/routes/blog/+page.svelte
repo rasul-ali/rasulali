@@ -1,6 +1,6 @@
 <script>
-    import qaraNohur from "../media/qaraNohur.jpg";
-    import Container from "../components/container.svelte";
+    import qaraNohur from "../../media/qaraNohur.jpg";
+    import Container from "../../components/container.svelte";
     let holder =
         "Azərbaycanın İsmayıllı rayonu ərazisində yerləşən yüksək dağ gölü. İsmayıllı şəhərindən 8 km şimal-şərqdə yerləşir. Dəniz səviyyəsindən 1520 m yüksəklikdə yerləşir. Böyük Qafqaz dağlarından axan Qaranohur çayının hövzəsinə daxildi";
 </script>
